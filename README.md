@@ -1,21 +1,22 @@
 # InterviewReady
-This repository will largely contribute the areas from which all the contributors can uplift theitr technical skills.
-It is something like a notepad/roughpad for the contributotr hence in short time any concept or knowledge can be conveyed or recall.
+This repository will largely contribute to the areas from which all the contributors can uplift their technical skills.
+It is something like a notepad/roughpad for the contributor hence in a short time any concept or knowledge can be conveyed or recalled.
 
 
-Would like to propose below listed major categories in which we can contribute our learnings for future requirements
+Below are listed major categories in which we can contribute our learnings for future requirements
 
-==> Documents
-==> Projects
-==> Debugging 
-==> Critical Issues
-==> TODO
+## Documents
+## Projects
+## Debugging 
+## Critical Issues
+## TODO
+## C 
+## python
+## Bash (Shell script)
+## Firmware
+## Baremetal
+## LDD (Linux device driver)
+## Bootloader
+## LSP (Linux system programming)
 
-==> C 
-==> Firmware
-==> Baremetal
-==> LDD (Linux device driver)
-==> Bootloader
-==> LSP (Linux system programming)
-
-# All the contributors are free to update the propoised areas.
+# All the contributors are free to update the proposed areas.
