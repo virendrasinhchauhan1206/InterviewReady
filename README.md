@@ -11,7 +11,8 @@ Below are listed major categories in which we can contribute our learnings for f
 ## Critical Issues
 ## TODO
 ## C 
-## python
+## Python
+## Yocto
 ## Bash (Shell script)
 ## Firmware
 ## Baremetal
