@@ -10,10 +10,12 @@ Below are listed major categories in which we can contribute our learnings for f
 ## Debugging 
 ## Critical Issues
 ## TODO
+========================================================================================================================================
 ## Arm
 ## C 
 ## Python
 ## Yocto
+## Git
 ## Bash (Shell script)
 ## Firmware
 ## Baremetal
